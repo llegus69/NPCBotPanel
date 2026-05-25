@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: NPCBot Panel
+## Notes: Panel gráfico para controlar tus NPCBots sin necesidad de teclas de acceso rápido
+## Author: AzerothCore NPCBot Addon
+## Version: 1.0.0
+## SavedVariables: NPCBotPanelDB
+
+NPCBotPanel.lua
